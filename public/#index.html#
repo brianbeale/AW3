@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chimera</title>
+  </head>
+  <body>
+    <canvas id="canvas" height="600"width="600">
+    </canvas>
+    <script type="text/javascript">
+      // Force `fetch` polyfill to workaround Chrome not displaying request body
+      // in developer tools for the native `fetch`.
+      self.fetch = null;
+    </script>
+    <script src="http://localhost:3000/webpack-dev-server.js"></script>
+    <script src="public/publicApp.js"></script>
+  </body>
+</html>

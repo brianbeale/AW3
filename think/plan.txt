@@ -1,0 +1,38 @@
+Phase 1 - Asset collection and basic display logic:
+  Building top display conditional
+  Unit display offset = 2px
+  Dormant unit transform
+  Unit trimming?
+  Damage counters
+
+  Cursor effects and interactions
+
+Phase 2 - Basic gameplay functionality:
+  Movement visuals coordination
+
+  Damage forecast
+  Damage functions
+
+  Building functions
+
+  Teams
+  Turns
+
+Phase 3 - Build map library and map editor
+
+Phase 4 - AI
+
+Phase n - Polishing Enhancements:
+  Shadows
+  Attack animation
+
+  New unit sprites
+
+  Bouncing unit animation
+  CO sprites
+  Battle animations
+  CO specific AIs
+
+  New COs
+  New Colors
+  Camaigns
